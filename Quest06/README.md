@@ -24,6 +24,11 @@
 * 도커를 설치하고 그 사용법을 익혀 보세요.
 * Quest 05에서 작업한 서버를 컨테이너 기반으로 띄울 수 있게 수정해 보세요. (docker-compose는 사용하지 않습니다)
 * 컨테이너를 Docker Hub에 올리고, EC2에서 해당 컨테이너를 띄워서 서비스 해 보세요.
+
+```bash
+$ docker pull corca/node-test:latest
+```
+
 * docker-compose를 사용하여, 빌드와 서버 업/다운을 쉽게 할 수 있도록 고쳐 보세요.
 
 ## Advanced
